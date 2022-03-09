@@ -1,0 +1,18 @@
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #111;
+    height: auto;
+    width: 100vw;
+    font-family: Courier New;
+    padding-top: 0px;
+    color: #fff;
+}
+.counter{
+    background: #000;
+    width: 100vw;
+    padding: 0px;
+    text-align: center;
+}
