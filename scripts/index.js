@@ -1,4 +1,4 @@
-var count = document.querySelector(".counter");
+/*var count = document.querySelector(".counter");
 var visits = localStorage.getItem("page_view");
 //enable button if it's needed
 //var reset = document.querySelector("#reset");
@@ -15,7 +15,7 @@ if (visits) {
 count.innerHTML = visits;
 
 // Reset count if it's needed
-/*reset.addEventListener("click", () => {
+reset.addEventListener("click", () => {
   visits = 1;
   localStorage.setItem("page_view", 1);
   count.innerHTML = visits;
